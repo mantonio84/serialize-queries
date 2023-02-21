@@ -1,5 +1,5 @@
 {
-	"name" : "laravie/serialize-queries",
+	"name" : "mantonio84/serialize-queries",
 	"description" : "Serializable Laravel Query Builder",
 	"type" : "library",
 	"license" : "MIT",
